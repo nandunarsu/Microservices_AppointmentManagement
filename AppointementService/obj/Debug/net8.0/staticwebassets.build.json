@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "UJwC/5stl3jWOMMzsESMgjXUboyMqkFnGioPKX3Xicg=",
+  "Source": "AppointementService",
+  "BasePath": "_content/AppointementService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
